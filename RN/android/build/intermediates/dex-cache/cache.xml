@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Volumes/Data/study/thesis/MyHCMUS/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="/Volumes/Data/study/thesis/MyHCMUS/android/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.2.0_bdd4fb5b521aec7aa042e5fa075334a9157d5fb9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Data/study/thesis/MyHCMUS/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="/Volumes/Data/study/thesis/MyHCMUS/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.0.1_09e080068e61db9dd943bf518524825ba200837c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nntai/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Volumes/Data/study/thesis/MyHCMUS/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_55655b89d10ef3e698deb110072520b095b726de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Data/study/thesis/MyHCMUS/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Volumes/Data/study/thesis/MyHCMUS/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_c2d3d9371bc3e35efb18d7d3b305efa80b5807ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Data/study/thesis/MyHCMUS/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.43.4/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="/Volumes/Data/study/thesis/MyHCMUS/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5_435fcb06192aadc52a1504c72343e92a89e0af25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Data/study/thesis/MyHCMUS/android/app/build/intermediates/exploded-aar/com.balysv.materialmenu/material-menu-toolbar/1.5.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="55d7bf547c88cb7c8c7c5cdbf3b06dd66c9750f8">
+        <dex dex="/Volumes/Data/study/thesis/MyHCMUS/android/app/build/intermediates/pre-dexed/debug/com.balysv.materialmenu-material-menu-toolbar-1.5.4_c9455c2ae2c933ae593155abc0144ed48f43d48d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Data/study/thesis/MyHCMUS/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="/Volumes/Data/study/thesis/MyHCMUS/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.0.1_ba784dc66e1143af19dddbfaf96ae49f0be58a7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Data/study/thesis/MyHCMUS/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Volumes/Data/study/thesis/MyHCMUS/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_44aa59290b216b471bbfe647909f662568c882f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nntai/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/Volumes/Data/study/thesis/MyHCMUS/android/app/build/intermediates/pre-dexed/debug/support-annotations-25.2.0_b00830aa341cba931c41476e76fcdaee43f992b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Data/study/thesis/MyHCMUS/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="/Volumes/Data/study/thesis/MyHCMUS/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.0.1_41a9be7c4489e8e1db27199d9b2815a3e22cc902.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Data/study/thesis/MyHCMUS/android/app/build/intermediates/exploded-aar/MyHCMUS/react-native-navigation/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c70536d57e2591f044da540b540290f76cc744b4">
+        <dex dex="/Volumes/Data/study/thesis/MyHCMUS/android/app/build/intermediates/pre-dexed/debug/MyHCMUS-react-native-navigation-unspecified_48bd066c915ef00adb2a01e0f2a93e67d1edef33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Data/study/thesis/MyHCMUS/android/app/build/intermediates/exploded-aar/com.aurelhubert/ahbottomnavigation/2.0.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c8ba41bea7f78f8bdf3a803b9d08eb3fff416706">
+        <dex dex="/Volumes/Data/study/thesis/MyHCMUS/android/app/build/intermediates/pre-dexed/debug/com.aurelhubert-ahbottomnavigation-2.0.6_fea037b71b954ffb94ebd2ffaff50ef0cc7e919c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Data/study/thesis/MyHCMUS/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/Volumes/Data/study/thesis/MyHCMUS/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.2.0_8b5ae9e28e9dc701473140a09feb922218ec5f9d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Data/study/thesis/MyHCMUS/android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/Volumes/Data/study/thesis/MyHCMUS/android/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.2.0_3a20006d736c1c68ff489391593c7f58eb8e3b0c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Data/study/thesis/MyHCMUS/android/app/build/intermediates/exploded-aar/com.android.support/transition/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="/Volumes/Data/study/thesis/MyHCMUS/android/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.2.0_a1d4f385890b7bccf45d7bd30d19f07048a997dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nntai/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/Volumes/Data/study/thesis/MyHCMUS/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1_0fa9c60583be1f2a24b925d958e99b94080066ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Data/study/thesis/MyHCMUS/android/app/build/intermediates/exploded-aar/com.android.support/design/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="/Volumes/Data/study/thesis/MyHCMUS/android/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.2.0_2ec9d96ff631733653b5f5b322144d4adb36c7fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nntai/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Volumes/Data/study/thesis/MyHCMUS/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1_1cea1e03f050d13edbc06b1ab3f203f1f8c39737.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nntai/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Volumes/Data/study/thesis/MyHCMUS/android/app/build/intermediates/pre-dexed/debug/library-2.4.0_f06f391d2f9cbadfd66cd102f0e0994959318184.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nntai/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Volumes/Data/study/thesis/MyHCMUS/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_9b1f805412e425be691a8f48b2fd43af06f635e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Data/study/thesis/MyHCMUS/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/Volumes/Data/study/thesis/MyHCMUS/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.2.0_3114ec87831e3ff9c9e826dc7e3c79de134b0f23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nntai/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Volumes/Data/study/thesis/MyHCMUS/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_8448943b75a632b1fcd5cd8af5dc0fcdc836c98a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Data/study/thesis/MyHCMUS/android/app/build/intermediates/exploded-aar/com.balysv.materialmenu/material-menu/1.5.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1f6ff1728c297524e82b875ce2dfda946f4bca41">
+        <dex dex="/Volumes/Data/study/thesis/MyHCMUS/android/app/build/intermediates/pre-dexed/debug/com.balysv.materialmenu-material-menu-1.5.4_975cd7fe1bde1546d4011ef68b8be7a75fe7ba50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Data/study/thesis/MyHCMUS/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Volumes/Data/study/thesis/MyHCMUS/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.2.0_5ef7c8a73dfe1f5382c94849e4a9a4d8c257a693.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Data/study/thesis/MyHCMUS/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.43.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="28964a93b5eafbe660a5b51e5964d2e66aa45395">
+        <dex dex="/Volumes/Data/study/thesis/MyHCMUS/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.43.4_7d80f0d2b993a7f0988242b31251f38f6095da4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Data/study/thesis/MyHCMUS/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/Volumes/Data/study/thesis/MyHCMUS/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.2.0_3d9aa6473b55dc1e13521cd34a75f32a102bd16d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nntai/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/Volumes/Data/study/thesis/MyHCMUS/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1_b7dde10ca1faf18fb3d58529a2ec83fd2bad0af2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Data/study/thesis/MyHCMUS/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="/Volumes/Data/study/thesis/MyHCMUS/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.0.1_dc152811d790b1e0967ff50ab10051b05b0d9ef8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Data/study/thesis/MyHCMUS/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/Volumes/Data/study/thesis/MyHCMUS/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.2.0_dba468b674fb773ec6787304a14700d334bb93a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Data/study/thesis/MyHCMUS/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="/Volumes/Data/study/thesis/MyHCMUS/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.0.1_16aba139dae91cd2bd8234ea38d7f6502b12facf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nntai/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Volumes/Data/study/thesis/MyHCMUS/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0_43e3c42f766485430ad29341179ce1f82ce22031.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nntai/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Volumes/Data/study/thesis/MyHCMUS/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_9846b632b17ea582ab620a628cec0514ab66627b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Data/study/thesis/MyHCMUS/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="/Volumes/Data/study/thesis/MyHCMUS/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.0.1_4b25b1f72fcbf30d07d6fb3dcd4ed46e4f8fe8e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Data/study/thesis/MyHCMUS/android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/Volumes/Data/study/thesis/MyHCMUS/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.2.0_d6dcca3417f14d82a02685eaafe8a61abde57641.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Data/study/thesis/MyHCMUS/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/Volumes/Data/study/thesis/MyHCMUS/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.2.0_27ad22f902d0713287373e488aad8f9e7e14bef9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Data/study/thesis/MyHCMUS/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/Volumes/Data/study/thesis/MyHCMUS/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.2.0_5a1ed79983ce6bf17da5f3d760f39ea55fbf762a.jar" />
+    </item>
+
+</items>

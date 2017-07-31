@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Volumes/Data/study/thesis/MyHCMUS/android/app/build/intermediates/res/merged/debug/menu/stub.xml",
+        "source": "/Volumes/Data/study/thesis/MyHCMUS/android/app/build/intermediates/exploded-aar/MyHCMUS/react-native-navigation/unspecified/res/menu/stub.xml"
+    },
+    {
+        "merged": "/Volumes/Data/study/thesis/MyHCMUS/android/app/build/intermediates/res/merged/debug/menu/search_item.xml",
+        "source": "/Volumes/Data/study/thesis/MyHCMUS/android/app/build/intermediates/exploded-aar/MyHCMUS/react-native-navigation/unspecified/res/menu/search_item.xml"
+    }
+]
